@@ -6,7 +6,6 @@
   "scripts": {
     "test": "standard && tap test/*test.js"
   },
-  "precommit": "test",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nearform/anger.git"
